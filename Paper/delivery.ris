@@ -1,0 +1,26 @@
+TY  - JOUR
+ID  - S0305048316301621
+AU  - Corrente, Salvatore
+AU  - Figueira, José Rui
+AU  - Greco, Salvatore
+AU  - Słowiński, Roman
+T1  - A robust ranking method extending ELECTRE III to hierarchy of interacting criteria, imprecise weights and stochastic analysis
+JO  - Omega
+JF  - Omega
+J1  - Omega
+PY  - 2017/12/1/December 2017///
+Y1  - 2017/12/1/December 2017///
+VL  - 73
+M3  - Article
+SP  - 1
+EP  - 17
+PB  - Elsevier Ltd
+SN  - 0305-0483
+AB  - A great majority of methods designed for Multiple Criteria Decision Aiding (MCDA) assume that all assessment criteria are considered at the same level, however, decision problems encountered in practice often impose a hierarchical structure of criteria. The hierarchy helps to decompose complex decision problems into smaller and manageable subtasks, and thus, it is very attractive for computational efficiency and explanatory purposes. To handle the hierarchy of criteria in MCDA, a methodology called Multiple Criteria Hierarchy Process (MCHP), has been recently proposed. MCHP permits to consider preference relations with respect to a subset of criteria at any level of the hierarchy. Here, we propose to apply MCHP to the ELECTRE III ranking method adapted to handle three types of interaction effects between criteria: mutual-weakening, mutual-strengthening and antagonistic effect. We also involve in MCHP an imprecise elicitation of criteria weights, generalizing a technique called the SRF method. In order to explore the plurality of rankings obtained by the ELECTRE III method for possible sets of criteria weights, we apply the Stochastic Multiobjective Acceptability Analysis (SMAA) that permits to draw robust conclusions in terms of rankings and preference relations at each level of the hierarchy of criteria. The novelty of the whole methodology consists of a joint consideration of hierarchical assessments of alternatives performances on interacting criteria, imprecise criteria weights, and robust analysis of ranking recommendations resulting from ELECTRE III. An example regarding the multiple criteria ranking of some European universities will show how to apply the proposed methodology on a decision problem.
+AB  - Highlights •We propose a ranking method extending ELECTRE III to hierarchy of interacting criteria.•We accept imprecise data at the input of the SRF method, and define the space of possible weights.•The robustness concern is shown through stochastic analysis of a sampled set of possible weights.•One gets a robust ranking and frequencies of preference, indifference and incomparability.•We illustrate the application of the proposed methodology on a case of university ranking.
+N1  - Accession Number: S0305048316301621; Author: Corrente, Salvatore (a); Author: Figueira, José Rui (b); Author: Greco, Salvatore (a, c, ⁎); Author: Słowiński, Roman (d, e); Affiliation: Department of Economics and Business, University of Catania, Corso Italia, 55, 95129 Catania, Italy; Affiliation: CEG-IST, Instituto Superior Técnico, Universidade de Lisboa, Av. Rovisco Pais, 1049-001 Lisboa, Portugal; Affiliation: University of Portsmouth, Portsmouth Business School, Centre of Operations Research and Logistics (CORL), Richmond Building, Portland Street, Portsmouth PO1 3DE, United Kingdom; Affiliation: Institute of Computing Science, Poznań University of Technology, 60-965 Poznań, Poland; Affiliation: Systems Research Institute, Polish Academy of Sciences, 01-447 Warsaw, Poland; This manuscript was processed by Associate Editor Triantaphyllou.; Number of Pages: 17; Language: English;
+L3  - 10.1016/j.omega.2016.11.008
+UR  - http://proxy-harrisburg.klnpa.org/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edselp&AN=S0305048316301621&site=eds-live&scope=site
+DP  - EBSCOhost
+DB  - edselp
+ER  - 
